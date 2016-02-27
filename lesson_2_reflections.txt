@@ -3,3 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
 Git creates a .git folder in the directory I specify. This enables Git to track
 this directory as a repository.
 -----
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+It include some files in the directory that is not in the repository,
+but not all. It enables me to spilt large changes into several commits.
+-----
