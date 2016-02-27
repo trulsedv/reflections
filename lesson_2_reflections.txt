@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Git creates a .git folder in the directory I specify. This enables Git to track
+this directory as a repository.
+-----
