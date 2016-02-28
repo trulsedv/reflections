@@ -32,4 +32,4 @@ How do the diagrams help you visualize the branch structure?
 It helps me to understand in what context a commit is submitted.
 -----
 
-edit edit
+edit edit edit
