@@ -9,3 +9,25 @@ What value do you think it offers?
 It include some files in the directory that is not in the repository,
 but not all. It enables me to spilt large changes into several commits.
 -----
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+I can use the staging area to only commit some of the files I've changed, and
+commit other files I've changed in another commit.
+If I've made several changed in one file I'm not able to commit them seperatly.
+-----
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+All changes to a working code "should" be created in a branch. Then I can be
+sure I will not break the latest master code.
+When making large experimental changes that will consist of several commits.
+Making a branch will then enable me to make commits without changing the
+original code.
+I can make several branches from one point without worrying that every other
+branch has to work to make that branch work.
+-----
+How do the diagrams help you visualize the branch structure?
+
+It helps me to understand in what context a commit is submitted.
+-----
